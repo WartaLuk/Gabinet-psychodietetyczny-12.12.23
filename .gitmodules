@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = [https://github.com/WartaLuk/Gabinet-psychodietetyczny-12.12.23-frontend]
+[submodule "backend"]
+	path = backend
+	url = [https://github.com/WartaLuk/Gabinet-psychodietetyczny-12.12.23-backend]
+[submodule "database"]
+	path = database
+	url = [https://github.com/WartaLuk/Gabinet-psychodietetyczny-12.12.23-database]
